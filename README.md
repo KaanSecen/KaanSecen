@@ -1,6 +1,4 @@
-<a href=https://kaansecen.nl>
-  <h1>Kaan Secen</h1>
-</a>
+<a href=https://kaansecen.nl>Kaan Secen</a>
 
 ###### Hier zie je alle website die ik gebruik.
 ---
@@ -44,8 +42,38 @@
     <br>
     <br>
     <br>
+    <br>
+    <br>
+    <br>
   </h2>
 </a>
 
+### [🎨CSS gradient](https://cssgradient.io/)
+
+<a href=https://cssgradient.io>
+  <img id="im" width=400 height=250 align="right" src=https://cssgradient.io/images/css-gradient-share-23a5b71f.png>
+  <h2>As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </h2>
+</a>
+
+### [🎨imagecolorpicker](https://imagecolorpicker.com/)
+
+<a href=https://imagecolorpicker.com>
+  <img id="im" width=400 height=250 align="right" src=https://assets.webinfcdn.net/thumbnails/280x202/i/imagecolorpicker.com.png>
+  <h2>With this online tool you can upload an image or provide a website URL and get the RGB Color, HEX Color and HSL Color code.
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </h2>
+</a>
 
 ---
