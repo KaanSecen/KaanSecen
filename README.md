@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaansecen" alt="kaansecen" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/secen_kaan" target="blank"><img src="https://img.shields.io/twitter/follow/secen_kaan?logo=twitter&style=for-the-badge" alt="secen_kaan" /></a> </p>
+
 - 🔭 I’m currently working on [Xenterion](https://github.com/Remy2072/Xenterion)
 
 - 👨‍💻 All of my projects are available at [https://kaansecen.nl/](https://kaansecen.nl/)
