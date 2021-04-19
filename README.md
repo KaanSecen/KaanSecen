@@ -51,6 +51,8 @@
 <br/>
 <br/>
 
+<a href="https://github.com/KaanSecen/github-readme-activity-graph"><img alt="KaanSecen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KaanSecen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
 <br/>
 
