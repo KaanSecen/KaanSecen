@@ -1,79 +1,30 @@
-<a href=https://kaansecen.nl>Kaan Secen</a>
+<h1 align="center">Hi 👋, I'm Kaan Secen</h1>
+<h3 align="center">I am a 17 years old and i love to code stuff.</h3>
 
-###### Hier zie je alle website die ik gebruik.
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaansecen&label=Profile%20views&color=0e75b6&style=flat" alt="kaansecen" /> </p>
 
-### [🎨Layoutit Grid](https://grid.layoutit.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaansecen" alt="kaansecen" /></a> </p>
 
-<a href=https://grid.layoutit.com>
-  <img id="im" width=400 height=250 align="right" src=https://raw.githubusercontent.com/Leniolabs/layoutit-grid/main/assets/layoutit-grid-showcase.gif>
-  <h2>Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </h2>
-</a>
+<p align="left"> <a href="https://twitter.com/secen_kaan" target="blank"><img src="https://img.shields.io/twitter/follow/secen_kaan?logo=twitter&style=for-the-badge" alt="secen_kaan" /></a> </p>
 
-### [🎨HTML colorcodes](https://htmlcolorcodes.com/)
+- 🔭 I’m currently working on [Xenterion](https://github.com/Remy2072/Xenterion)
 
-<a href=https://htmlcolorcodes.com>
-  <img id="im" width=400 height=250 align="right" src=https://htmlcolorcodes.com/assets/images/html-color-codes-picker-charts-names-tutorials-resources.jpg>
-  <h2>Easily find HTML color codes for your website using our color picker, color chart and HTML color names with Hex color codes, RGB and HSL values.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </h2>
-</a>
+- 👨‍💻 All of my projects are available at [https://kaansecen.nl/](https://kaansecen.nl/)
 
-### [🎨Flexbox Help](https://flexbox.help/)
+- 💬 Ask me about **HTML Javascript, CSS, PHP**
 
-<a href=https://flexbox.help>
-  <img id="im" width=400 height=250 align="right" src=https://i.imgur.com/7baD8P8.png>
-  <h2>Test CSS Flexbox Rules
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </h2>
-</a>
+- 📫 How to reach me **kaansecen03@gmail.com**
 
-### [🎨CSS gradient](https://cssgradient.io/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/secen_kaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="secen_kaan" height="30" width="40" /></a>
+</p>
 
-<a href=https://cssgradient.io>
-  <img id="im" width=400 height=250 align="right" src=https://cssgradient.io/images/css-gradient-share-23a5b71f.png>
-  <h2>As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </h2>
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-### [🎨imagecolorpicker](https://imagecolorpicker.com/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaansecen&show_icons=true&locale=en&layout=compact" alt="kaansecen" /></p>
 
-<a href=https://imagecolorpicker.com>
-  <img id="im" width=400 height=250 align="right" src=https://assets.webinfcdn.net/thumbnails/280x202/i/imagecolorpicker.com.png>
-  <h2>With this online tool you can upload an image or provide a website URL and get the RGB Color, HEX Color and HSL Color code.
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-  </h2>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaansecen&show_icons=true&locale=en" alt="kaansecen" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaansecen&" alt="kaansecen" /></p>
