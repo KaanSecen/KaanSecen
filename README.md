@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Xenterion](https://github.com/Remy2072/Xenterion)
+- 🔭 I’m currently working on -
 
 - 👨‍💻 All of my projects are available at [https://kaansecen.nl/](https://kaansecen.nl/)
 
