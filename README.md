@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on -
+- 🔭 I’m currently working on KennisHub
 
 - 👨‍💻 All of my projects are available at [https://kaansecen.nl/](https://kaansecen.nl/)
 
