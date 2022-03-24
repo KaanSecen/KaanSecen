@@ -5,6 +5,8 @@
 
 ### <div align="center">I'm Kaan Secen, a full-time Software developer 👨‍💻 working 24/7🚀</div>
 
+---
+
 - 🔭 I’m currently working on KennisHub
 
 - 🌱 I’m currently learning Laravel
@@ -13,6 +15,7 @@
 
 - ⚡ Fun fact: I can code while sleeping
 
+---
 <br/>
 
 ## My Skill Set
