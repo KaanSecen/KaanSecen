@@ -62,6 +62,9 @@
 ## Connect with me
 
 <div align="center">
+<a href="https://kaansecen.nl/" target="_blank">
+<img src=https://img.shields.io/badge/website-000.svg?&style=for-the-badge&logo=google&logoColor=DCA54C alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/KaanSecen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -69,12 +72,18 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/KaanSecen" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/kaan-secen" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
+<a href="mailto:kaansecen03@gmail.com">
+<img src=https://img.shields.io/badge/gmail-DB4437.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://wa.me/+31611242854" target="_blank">
+<img src=https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>   
 
 
 <br/>
