@@ -92,7 +92,7 @@
 
 <img
   src="https://github.com/KaanSecen/KaanSecen/blob/main/images/stat.svg"
-  alt="Coding Stats"
+  alt="Kaan WakaTime Activity"
 />
 
 <br/>
