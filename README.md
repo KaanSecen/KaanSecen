@@ -93,6 +93,7 @@
 <img
   src="metrics.plugin.wakatime.svg"
   alt="Kaan WakaTime Activity"
+  style="width: 100%"
 />
 
 <br/>
