@@ -91,7 +91,7 @@
 ## Coding Activity
 
 <img
-  src="https://github.com/KaanSecen/KaanSecen/blob/main/images/stat.svg"
+  src="metrics.plugin.wakatime.svg"
   alt="Kaan WakaTime Activity"
 />
 
